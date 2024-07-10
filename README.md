@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Bichu B Binu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bichu-b-binu&label=Profile%20views&color=0e75b6&style=flat" alt="bichu-b-binu" /> </p>
