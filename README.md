@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bichu-b-binu&label=Profile%20views&color=0e75b6&style=flat" alt="bichu-b-binu" /> </p>
 
-- 🔭 I’m currently learning in [C#](https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef)
+- 🔭 I’m currently working on [C#](https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef)
 
-- 🌱 I’m currently learning **Mern Technology**
+- 🌱 I’m currently learning **C#**
 
 - 👯 I’m looking to collaborate on [Google](https://www.google.com/)
 
