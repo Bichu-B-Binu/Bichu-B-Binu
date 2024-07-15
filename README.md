@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻, I'm Bichu B Binu</h1>
+<h1 align="center">Hi 👋🏻 I'm Bichu B Binu</h1>
 <h3 align="center">A passionate programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif"/>
 
