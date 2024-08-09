@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [DSA]([https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef](https://leetcode.com/problemset/javascript/?sorting=W3sic29ydE9yZGVyIjoiQVNDRU5ESU5HIiwib3JkZXJCeSI6IkRJRkZJQ1VMVFkifV0%3D))
 
-- 🌱 I’m currently learning **Leet Code**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on [Google](https://www.google.com/)
 
