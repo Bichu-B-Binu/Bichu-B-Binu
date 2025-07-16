@@ -6,13 +6,21 @@
 
 - 🔭 I’m currently working on [DSA]([https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef](https://leetcode.com/problemset/javascript/?sorting=W3sic29ydE9yZGVyIjoiQVNDRU5ESU5HIiwib3JkZXJCeSI6IkRJRkZJQ1VMVFkifV0%3D))
 
-- 🌱 I’m currently learning **MERN**
+Full Stack Developer & Network Engineer | BCA Student | Self-Starter
 
-- 👯 I’m looking to collaborate on [Google](https://www.google.com/)
+Welcome to my portfolio! I'm a tech enthusiast who bridges the world of software development and IT infrastructure. From building responsive full-stack web applications to configuring biometric systems and fixing hacked laptops, I love solving real-world tech problems.
 
-- 💬 Ask me about **MongoDB,Express.js,React.js,JavaScript**
+After completing a 6-month intensive MERN stack course, I started my journey in IT support and networking. At AInsurtech, I’ve led key initiatives like office network setup, system configuration, and biometric attendance management.
+Outside of work, I'm currently pursuing my BCA from Manipal University while learning DSA, C++, and Angular.
 
-- 📫 How to reach me **https://www.linkedin.com/in/bichu-b-binu-97807424a/**
+Featured Projects:
+💬 Chat Web App – Real-time communication using MERN
+
+📝 Blog Web App – Full CRUD operations and clean UI
+
+📍Live Attendance Dashboard – GPS-based employee check-in/check-out with live map
+
+I'm excited to grow as a Full Stack Developer, contribute to meaningful tech solutions, and continuously level up my skills.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
